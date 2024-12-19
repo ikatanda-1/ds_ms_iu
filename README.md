@@ -34,8 +34,8 @@ This research investigates the effectiveness of deep learning models in predicti
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/stock-price-prediction.git
-   cd stock-price-prediction
+   git clone https://github.com/ikatanda-1/ds_ms_iu.git
+   cd ds_ms_iu
    ```
 2. Install required dependencies:
    ```bash
@@ -43,7 +43,7 @@ This research investigates the effectiveness of deep learning models in predicti
    ```
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook ms_stock_pred_1.ipynb
+   jupyter notebook ms_stock_pred_1 (3).ipynb
    ```
 
 ## Methodology
