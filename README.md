@@ -1,10 +1,5 @@
-# ds_ms_iu
-Research thesis:  LSTM Architectures for Stock Price Prediction  A Comparative Study with Hyperparameter Tuning
-Here is a general GitHub README template for a Master's in Data Science research thesis. This can be customized further based on the specific content of your thesis.
 
----
-
-# Stock Price Prediction Using Deep Learning Models
+# LSTM Architectures for Stock Price Prediction  A Comparative Study with Hyperparameter Tuning
 
 This repository contains the implementation and analysis for a Master's in Data Science research thesis focused on predicting stock prices using deep learning models. The project explores various architectures, including Vanilla LSTM, Stacked LSTM, Bidirectional LSTM, CNN-LSTM, and Peephole LSTM, for time series forecasting of stock market data.
 
