@@ -43,7 +43,7 @@ This research investigates the effectiveness of deep learning models in predicti
    ```
 3. Run the Jupyter Notebook:
    ```bash
-   jupyter notebook ms_stock_pred_1 (3).ipynb
+   jupyter notebook ms_stock_pred.ipynb
    ```
 
 ## Methodology
