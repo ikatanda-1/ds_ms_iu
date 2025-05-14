@@ -62,5 +62,5 @@ The analysis includes a comparison of the five deep learning architectures in te
 The research demonstrates the strengths and limitations of different LSTM-based models in stock price prediction. It offers recommendations for future improvements and potential applications in real-world financial forecasting.
 
 ## Acknowledgments
-This work was conducted as part of the MSc in Data Science program. Special thanks to the university, supervisors, and contributors who supported this research.
+This work was conducted as part of the MSc in Information Technology program. Special thanks to the university, supervisors, and contributors who supported this research.
 
