@@ -1,7 +1,7 @@
 
 # LSTM Architectures for Stock Price Prediction  A Comparative Study with Hyperparameter Tuning
 
-This repository contains the implementation and analysis for a Master's in Data Science research thesis focused on predicting stock prices using deep learning models. The project explores various architectures, including Vanilla LSTM, Stacked LSTM, Bidirectional LSTM, CNN-LSTM, and Peephole LSTM, for time series forecasting of stock market data.
+This repository contains the implementation and analysis for a Master's degree in Information Technology Capstone thesis focused on predicting stock prices using deep learning models. The project explores various architectures, including Vanilla LSTM, Stacked LSTM, Bidirectional LSTM, CNN-LSTM, and Peephole LSTM, for time series forecasting of stock market data.
 
 ## Table of Contents
 1. [Introduction](#introduction)
